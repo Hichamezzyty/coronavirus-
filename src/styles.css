@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'NeoSansArabic-Light';
+  src: url("../src/assets/fonts/NeoSansArabic-Light.woff") format("opentype");
+}
+
+@font-face {
+  font-family: 'NeoSansArabic';
+  src: url('../src/assets/fonts/NeoSansArabic.woff') format('opentype');
+}
+
+@font-face {
+  font-family: 'NeoSansArabic-Bold';
+  src: url("../src/assets/fonts/NeoSansArabic-Bold.woff") format("opentype");
+}
+
+@font-face {
+  font-family: 'NeoSansArabic-Black';
+  src: url("../src/assets/fonts/NeoSansArabic-Black.woff") format("opentype");
+}
